@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Amirhossein!
+- 👋 Hi, I’m AmirHossein!
 - 👀 I’m interested in machine learning, deep learning, reinforcement learning, and their applications in natural language processing and computer vision.
 - 🌱 I’m currently  a senior undergraduate Electrical Engineering student at the University of Tehran. I am also minoring in Computer Engineering.
 <!--
