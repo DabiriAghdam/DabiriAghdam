@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m AmirHossein!
 - 👀 I’m interested in machine learning, deep learning, reinforcement learning, and their applications in natural language processing and computer vision.
-- 🌱 I’m currently  a senior undergraduate Electrical Engineering student at the University of Tehran. I am also minoring in Computer Engineering.
+- 🌱 Hi, I am a first-year master’s student at the University of British Columbia ECE department, advised by Prof. Wang. I hold a BSc in Electrical Engineering with a minor in Computer Engineering from the University of Tehran. My research interests include machine learning, deep learning, reinforcement learning, and their real-world applications.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
